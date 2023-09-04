@@ -23,4 +23,4 @@
     endif;   ?>
 ```
 
-Resource:  (Wordress Transients)[https://developer.wordpress.org/apis/transients/]
+Resource:  [Wordress Transients](https://developer.wordpress.org/apis/transients/)
